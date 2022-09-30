@@ -1,0 +1,23 @@
+  {
+    "project": {
+      "name": "Bitmaps",
+      "by": "Max Fowler",
+      "image": "https://cdn.jsdelivr.net/gh/SqushyLabs/cdn-squshy-mint@main/bitmaps/thumbnail.jpg",
+      "accentColor": "#0C7AEF",
+      "identifier": "1322k31j"
+    },
+    "contract": {
+      "chain": "mainnet",
+      "address": "0x50efa91f65cf3f5db316287322c1a4002e342417"
+    },
+    "presets": {
+      "price": 0.03,
+      "maxPerAddress": 4,
+      "mintable": 111
+    },
+    "options": {
+      "date": "", 
+      "hasAllowList": false, 
+      "autoPopup": false
+    }
+  }
